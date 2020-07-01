@@ -1,10 +1,10 @@
 {
-    "name": "MOOC_html_mod4-MVC_cliente_entrega_sol",
+    "name": "MOOC_html_mod10-PWA_ejemplo",
     "author": "ging-moocs",
     "license": "GNU",
     "version": "0.0.0",
     "info": {
-        "githubURL": "ging-moocs/MOOC_html_mod4-MVC_cliente_entrega_sol",
+        "githubURL": "ging-moocs/MOOC_html_mod10-PWA_ejemplo",
         "serverUrl": "https://autocorector.dit.upm.es/",
         "courseId": "1",
         "assignmentId": "2"
